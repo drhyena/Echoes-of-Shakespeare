@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/45a72532-d012-465e-9701-ab596a775b80
+
 # Echoes-of-Shakespeare
 Echoes of Shakespeare" brings the magic of Elizabethan English to modern voices. This project takes ordinary voice recordings and translates them into the rich, resonant tones of William Shakespeare
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
